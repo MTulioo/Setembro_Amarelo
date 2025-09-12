@@ -2,7 +2,7 @@
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #DAA520;
+  background: #FAFAD2;
   color: #333;
   text-align: center;
 }
@@ -21,7 +21,7 @@ margin: 0;
 
 main {
   padding: 20px;
-  background: #FAFAD2;
+  background: #DAA520;
 }
 
 button {
